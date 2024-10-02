@@ -21,12 +21,7 @@ class _MainscreenState extends State<Mainscreen> {
           IconButton(onPressed: (){}, icon: Icon(Icons.search),
           color: Colors.black,),
         ],
-        // leading:const  Row(
-        //   children: [
-        //     Icon(Icons.camera),
-        //     Icon(Icons.search),
-        //     Icon(Icons.more_vert_rounded)
-        //   ],
+       
       ),
     );
   }
